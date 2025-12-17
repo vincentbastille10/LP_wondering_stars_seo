@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lp-wondering-stars.onrender.com/sitemap.xml
