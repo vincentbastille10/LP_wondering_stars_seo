@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Wondering Stars (Liquid Drum & Bass Edition) – Album Liquid DnB | Vincent Bastille</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- DESCRIPTION SEO (lourde + naturelle) -->
+  <meta name="description" content="Wondering Stars (Liquid Drum & Bass Edition) est un album de Drum and Bass Liquid atmosphérique et émotionnelle par Vincent Bastille. DnB mélodique, deep et nocturne, héritée de la scène UK (LTJ Bukem / Hospital). Écoute Spotify & achat Bandcamp." />
+
+  <meta name="keywords" content="wondering stars, liquid drum and bass, drum and bass liquid, liquid dnb, dnb liquid, drum and bass chill, dnb mélodique, dnb émotionnelle, drum and bass atmosphérique, atmospheric dnb, musique électronique nocturne, vincent bastille, album drum and bass, liquid drum and bass uk" />
+
+  <!-- IMPORTANT: mets ICI l'URL de TA landing (pas Bandcamp) si tu héberges ce index sur ton domaine -->
+  <link rel="canonical" href="https://TON-DOMAINE-ICI/" />
+
+  <!-- OPEN GRAPH -->
+  <meta property="og:type" content="music.album" />
+  <meta property="og:title" content="Wondering Stars (Liquid Drum & Bass Edition) – Album Liquid DnB" />
+  <meta property="og:description" content="Album de Liquid Drum & Bass atmosphérique et émotionnelle. Écoute sur Spotify, achat sur Bandcamp." />
+  <meta property="og:url" content="https://TON-DOMAINE-ICI/" />
+  <meta property="og:image" content="https://TON-DOMAINE-ICI/cover.jpg" />
+
+  <!-- TWITTER -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Wondering Stars (Liquid Drum & Bass Edition)" />
+  <meta name="twitter:description" content="Liquid Drum & Bass atmosphérique, mélodique et émotionnelle. Spotify + Bandcamp." />
+
+  <!-- JSON-LD (plus solide + liens officiels) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicAlbum",
+    "name": "Wondering Stars (Liquid Drum & Bass Edition)",
+    "byArtist": {
+      "@type": "MusicGroup",
+      "name": "Vincent Bastille"
+    },
+    "genre": [
+      "Drum and Bass",
+      "Liquid Drum and Bass",
+      "Atmospheric DnB",
+      "Electronic"
+    ],
+    "inLanguage": "fr",
+    "description": "Album de Drum and Bass Liquid atmosphérique et émotionnelle, mélodique et nocturne, influencé par la scène UK (LTJ Bukem / Hospital).",
+    "sameAs": [
+      "https://vincentbastille.bandcamp.com/album/wondering-stars-liquid-drum-bass-edition",
+      "https://open.spotify.com/intl-fr/album/37rwtMQ1XgEq5NFs4JBOhx"
+    ],
+    "url": "https://TON-DOMAINE-ICI/",
+    "potentialAction": {
+      "@type": "ListenAction",
+      "target": [
+        "https://open.spotify.com/intl-fr/album/37rwtMQ1XgEq5NFs4JBOhx",
+        "https://vincentbastille.bandcamp.com/album/wondering-stars-liquid-drum-bass-edition"
+      ]
+    }
+  }
+  </script>
+
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;max-width:980px;margin:24px auto;padding:0 16px;line-height:1.6}
+    header{margin-bottom:18px}
+    .cta{display:flex;gap:12px;flex-wrap:wrap;margin:14px 0 6px}
+    .btn{display:inline-block;padding:12px 14px;border-radius:12px;text-decoration:none;border:1px solid #111}
+    .btn.primary{background:#111;color:#fff}
+    .btn.secondary{background:#fff;color:#111}
+    small{color:#444}
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Wondering Stars (Liquid Drum &amp; Bass Edition)</h1>
+    <p>
+      Un album de <strong>Drum and Bass Liquid</strong> (Liquid DnB) : atmosphérique, mélodique, émotionnel.
+      Une DnB profonde et nocturne, héritière de la scène UK — et que la France redécouvre de plus en plus.
+    </p>
+
+    <div class="cta">
+      <a class="btn primary" href="https://open.spotify.com/intl-fr/album/37rwtMQ1XgEq5NFs4JBOhx" target="_blank" rel="noopener">Écouter sur Spotify</a>
+      <a class="btn secondary" href="https://vincentbastille.bandcamp.com/album/wondering-stars-liquid-drum-bass-edition" target="_blank" rel="noopener">Acheter sur Bandcamp</a>
+    </div>
+    <small>Tip SEO : mets une cover en <code>/cover.jpg</code> si tu peux (OG image).</small>
+  </header>
+
+  <main>
+    <section>
+      <h2>Drum and Bass Liquid : la DnB mélodique et atmosphérique</h2>
+      <p>
+        La <strong>Liquid Drum and Bass</strong> (ou <strong>Drum and Bass Liquid</strong>) est un courant centré sur
+        les mélodies, les textures profondes, les pads, et une énergie plus “émotionnelle” que la DnB agressive.
+        On parle souvent de <strong>DnB chill</strong>, <strong>DnB mélodique</strong> ou <strong>Atmospheric DnB</strong>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Pourquoi ce style est fort au Royaume-Uni</h2>
+      <p>
+        Au UK, la liquid DnB est un langage musical établi depuis des décennies :
+        une musique de nuit, de mouvement, de ville, de concentration — avec un ADN très “deep”.
+        C’est exactement ce que propose <em>Wondering Stars</em> : une DnB sensible, immersive, sans surjeu.
+      </p>
+    </section>
+
+    <section>
+      <h2>Pourquoi les jeunes français accrochent de plus en plus</h2>
+      <p>
+        La France bascule progressivement vers des électroniques plus atmosphériques et émotionnelles :
+        playlists “chill / night drive / focus”, culture visuelle, danse, contenu court…
+        La <strong>Liquid DnB</strong> devient un terrain naturel pour cette génération.
+      </p>
+    </section>
+
+    <section>
+      <h2>Écouter / acheter l’album</h2>
+      <ul>
+        <li><strong>Spotify :</strong> <a href="https://open.spotify.com/intl-fr/album/37rwtMQ1XgEq5NFs4JBOhx" target="_blank" rel="noopener">Wondering Stars (Liquid Drum &amp; Bass Edition)</a></li>
+        <li><strong>Bandcamp :</strong> <a href="https://vincentbastille.bandcamp.com/album/wondering-stars-liquid-drum-bass-edition" target="_blank" rel="noopener">Page officielle + achat</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Requêtes SEO visées (volontairement)</h2>
+      <p>
+        drum and bass liquid, liquid drum and bass, dnb liquid, dnb chill, dnb mélodique, dnb émotionnelle,
+        drum and bass atmosphérique, atmospheric dnb, album liquid dnb, wondering stars liquid drum and bass edition.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© Vincent Bastille — Wondering Stars (Liquid Drum &amp; Bass Edition)</p>
+  </footer>
+</body>
+</html>
